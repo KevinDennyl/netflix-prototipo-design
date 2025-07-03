@@ -10,8 +10,9 @@ Simular duas funcionalidades principais do app de streaming Netflix:
 - Login com e-mail ou rede social
 - Busca de conteúdo no catálogo
 
-## 🛠 Ferramenta usada
-- Figma
+## 🛠️ Ferramentas utilizadas
+- Figma (protótipos e design)
+- GitHub (versionamento e apresentação)
 
 ## 🔗 Link para o protótipo interativo:
 [👉 Acesse o protótipo no Figma](https://www.figma.com/proto/KYcmMShQNRKXzM4N6fM7oK/Prot%C3%B3tipo-Netflix---Kevin?node-id=1-2&p=f&t=yYUx7I9h44ioHPNX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
